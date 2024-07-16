@@ -1,0 +1,16 @@
+.f {
+    display: flex;
+    height: 400px;
+    justify-content: space-evenly;
+    background-color: rebeccapurple;
+}
+
+
+.f div {
+    width: 100px;
+    height: 150px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    border: 1px solid white;
+}
